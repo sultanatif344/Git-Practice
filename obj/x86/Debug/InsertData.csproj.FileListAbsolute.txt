@@ -1,0 +1,7 @@
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\bin\Debug\InsertData.exe
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\bin\Debug\InsertData.pdb
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\obj\x86\Debug\InsertData.Form1.resources
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\obj\x86\Debug\InsertData.Properties.Resources.resources
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\obj\x86\Debug\InsertData.csproj.GenerateResource.Cache
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\obj\x86\Debug\InsertData.exe
+c:\users\20\documents\visual studio 2010\Projects\InsertData\InsertData\obj\x86\Debug\InsertData.pdb
